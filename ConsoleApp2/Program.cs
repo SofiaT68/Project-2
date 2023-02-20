@@ -70,28 +70,28 @@ namespace ConsoleApp2
             //Console.WriteLine(count); 
 
             //Задание4
-            int[] arr = new int[] { -12, 3, 45, 12, 67, 0, 1 };
-            int max = 0, min = 0;
-            for (int i = 0; i < arr.Length; i++)
-            {
-                if (arr[i] > max)
-                {
-                    max = arr[i];
-                }
-                if (arr[i] < min)
-                {
-                    min = arr[i];
-                }
-            }
-            int absol = max + min;
-            for (int i = 0; i < arr.Length; i++)
-            {
-                arr[i] += Math.Abs(absol);
-            }
-            foreach (var item in arr)
-            {
-                Console.WriteLine(item);         
-            }
+            //int[] arr = new int[] { -12, 3, 45, 12, 67, 0, 1 };
+            //int max = 0, min = 0;
+            //for (int i = 0; i < arr.Length; i++)
+            //{
+            //    if (arr[i] > max)
+            //    {
+            //        max = arr[i];
+            //    }
+            //    if (arr[i] < min)
+            //    {
+            //        min = arr[i];
+            //    }
+            //}
+            //int absol = max + min;
+            //for (int i = 0; i < arr.Length; i++)
+            //{
+            //    arr[i] += Math.Abs(absol);
+            //}
+            //foreach (var item in arr)
+            //{
+            //    Console.WriteLine(item);         
+            //}
 
         }
     }
