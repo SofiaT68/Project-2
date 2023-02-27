@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp3
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
