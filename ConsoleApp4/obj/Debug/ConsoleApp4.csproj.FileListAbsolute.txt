@@ -1,0 +1,8 @@
+C:\Users\wanfo\Документы\GitHub\Project-2\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Users\wanfo\Документы\GitHub\Project-2\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.SuggestedBindingRedirects.cache
+C:\Users\wanfo\Документы\GitHub\Project-2\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\wanfo\Документы\GitHub\Project-2\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\wanfo\Документы\GitHub\Project-2\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\wanfo\Документы\GitHub\Project-2\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\wanfo\Документы\GitHub\Project-2\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\wanfo\Документы\GitHub\Project-2\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
