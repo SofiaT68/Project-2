@@ -40,16 +40,16 @@ namespace ConsoleApp3
             //    Console.WriteLine(item);
             //}
             //Задание4
-            int[] mass4 = new int[5];
-            Random r = new Random();
-            for(int i=0; i<mass4.Length; i++)
-            {
-                mass4[i] = r.Next(-100,100);
-            }
-            foreach(var item in mass4)
-            {
-                Console.WriteLine(item);
-            }
+            //int[] mass4 = new int[5];
+            //Random r = new Random();
+            //for(int i=0; i<mass4.Length; i++)
+            //{
+            //    mass4[i] = r.Next(-100,100);
+            //}
+            //foreach(var item in mass4)
+            //{
+            //    Console.WriteLine(item);
+            //}
         }
     }
 }
