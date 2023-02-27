@@ -79,18 +79,18 @@ namespace ConsoleApp4
             //}
             //Console.WriteLine(summ/mass4.Length);
             //Задание5
-            int[] mass5 = new int[4];
-            Random rand = new Random();
-            for(int i=0;i<mass5.Length;i++)
-            {
-                mass5[i] = rand.Next(1,10); 
-            }
-            for(int i=0;i<mass5.Length; i++)
-            {
-                mass5[i] *= 5;
-                Console.WriteLine(mass5[i]);
+            //int[] mass5 = new int[4];
+            //Random rand = new Random();
+            //for(int i=0;i<mass5.Length;i++)
+            //{
+            //    mass5[i] = rand.Next(1,10); 
+            //}
+            //for(int i=0;i<mass5.Length; i++)
+            //{
+            //    mass5[i] *= 5;
+            //    Console.WriteLine(mass5[i]);
 
-            }
+            //}
             
         }
     }
